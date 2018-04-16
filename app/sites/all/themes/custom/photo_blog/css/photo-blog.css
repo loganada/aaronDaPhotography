@@ -1,0 +1,6 @@
+.node-blog-post .field-name-field-image img,
+.view-recent-blog-posts.view-display-id-block img
+{
+    width: 100%;
+    height: auto;
+}
